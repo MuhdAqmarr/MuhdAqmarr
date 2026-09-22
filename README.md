@@ -33,7 +33,7 @@ Outside the product work I dabble in **data engineering** (Kafka, Spark, data wa
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhdAqmarr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&exclude_repo=codex,wayland,Project-AI-MemoryCore,KidsTrack-Management-System-developed-using-Laravel" alt="top languages" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="top languages" />
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ Outside the product work I dabble in **data engineering** (Kafka, Spark, data wa
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhdAqmarr&theme=github-compact&hide_border=true&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff" alt="activity graph" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="activity graph" width="100%" />
 </p>
 
 ---
