@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:0ea5e9&height=180&section=header&text=Muhd%20Aqmar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Creative%20UI%2FUX&descAlignY=58&descSize=16" alt="header" />
+  <img src="./assets/agent-terminal.svg" alt="agent@aqmar terminal" width="100%" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Aqmar</h2>
